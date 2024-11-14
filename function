@@ -1,0 +1,17 @@
+def function_Name(parameter1, parameter2): #function definition
+    statement
+    statement
+function_Name(argument1, argument2)#function call
+
+2. Builtin function
+
+    print()
+   Customize builtin function with
+        sep=" "
+            string inserted between values, default a space.
+        end="\n"
+            string appended after the last value, default a newline.
+        file=None
+            a file-like object (stream); defaults to the current sys. stdout.
+        flush=false
+            whether to forcibly flush the stream.
